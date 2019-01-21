@@ -1,6 +1,6 @@
 'use strict'
 
-const vue = require('rollup-plugin-vue').default
+const vue = require('rollup-plugin-vue')
 const autoprefixer = require('autoprefixer')
 
 module.exports = {
